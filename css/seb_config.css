@@ -1,0 +1,24 @@
+#seb_btn {
+  margin-top: 20px;
+  padding: 0.75rem 1.5rem;
+  text-align: center;
+  background-color: #47AB11;
+  color: #fff;
+  border: none;
+  border-radius: 9px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  font-size: 17px;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#seb_btn:hover {
+  background-color: #3F8A0D;
+}
+
+form {
+  background-color: #a8cfb7;
+  border-radius: 10px;
+  padding: 10px;
+}

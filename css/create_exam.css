@@ -1,0 +1,57 @@
+#examsList {
+  margin-top: 20px;
+}
+
+.exam-form {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #a8cfb7;
+  border: 1px solid white;
+  border-radius: 9px;
+  text-align: center;
+}
+
+.exam-form h3 {
+  margin-top: 0;
+  font-size: 22px;
+}
+
+.question-form {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #89B3A1; 
+  border: 1px solid white;
+  border-radius: 9px;
+}
+
+.question-form h4 {
+  margin-top: 0;
+}
+
+input[type="text"],
+input[type="number"] {
+  border-radius: 5px; 
+  font-size: 16px; 
+}
+
+#createExamButton,
+.exam-form button {
+  margin-top: 20px;
+  padding: 0.75rem 1.5rem;
+  text-align: center;
+  background-color: #47AB11;
+  color: #fff;
+  border: none;
+  border-radius: 9px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+  font-size: 17px;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#createExamButton:hover,
+.exam-form button:hover {
+  background-color: #3F8A0D;
+}
